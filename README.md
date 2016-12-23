@@ -1,2 +1,2 @@
 # Indian-Pin
-Pin code for iTokri
+All india Pin(zip/ Postalcode) code
